@@ -1,4 +1,4 @@
-# Rakib Mahmood Razeen Satterfield - Resume
+# Rakib Mahmood Razeen - Resume
 
 ## Software Quality Assurance Engineer
 
